@@ -1,0 +1,31 @@
+body
+{
+    background-image: url("../images/82.jpg");
+    background-color:black;
+    font-family: 'Lobster', cursive;
+}
+
+#headerSurv 
+{
+    color: #337ab7;
+    font-family: 'Acme', sans-serif;
+}
+
+#panel
+{
+    opacity: 0.8;
+    font-family: 'Acme', sans-serif;
+    border: solid black 3px;
+}
+
+#modal1
+{
+    color: black;
+    font-weight: 700;
+    font-family: 'Lobster', cursive;
+}
+
+#footer 
+{
+    color: red;
+}
